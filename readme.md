@@ -1,11 +1,11 @@
-# My testing project
-This is my first project in GitHub.
+# eshop-automated-tests
+Automated tests using Cypress framework for training purposes.
 
-`Cypress Installation`
+# Cypress Installation
 ```
 npm install cypress --save-dev
 ```
-`Running Cypress`
+# Running Cypress
 ```
 npx cypress open
 ```
