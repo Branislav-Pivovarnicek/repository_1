@@ -1,12 +1,11 @@
 # My testing project
 This is my first project in GitHub.
 
-# Cypress installation
+`Cypress Installation`
 ```
 npm install cypress --save-dev
 ```
-# Running Cypress
+`Running Cypress`
 ```
 npx cypress open
 ```
-`npm instal` `dalsi`
