@@ -1,0 +1,14 @@
+{
+  "name": "repository_1",
+  "version": "1.0.0",
+  "description": "First repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Branislav Pivovarnicek",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.17.0"
+  }
+}
