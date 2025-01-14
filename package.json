@@ -1,0 +1,13 @@
+{
+  "name": "eshop-automated-tests",
+  "version": "1.0.0",
+  "description": "Automated tests using Cypress framework for training purposes.",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "Branislav Pivovarnicek",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.17.0"
+  }
+}
