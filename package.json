@@ -4,10 +4,17 @@
   "description": "Automated tests using Cypress framework for training purposes.",
   "main": "index.js",
   "scripts": {
+    "lint": "eslint '**/*.{js,ts}'",
+    "format": "prettier --write '**/*.{js,ts,json,md}'"
   },
   "author": "Branislav Pivovarnicek",
   "license": "ISC",
   "devDependencies": {
-    "cypress": "^13.17.0"
+    "cypress": "^13.17.0",
+    "eslint": "^9.18.0",
+    "eslint-config-prettier": "^10.0.1",
+    "eslint-plugin-cypress": "^4.1.0",
+    "eslint-plugin-prettier": "^5.2.2",
+    "prettier": "^3.4.2"
   }
 }
