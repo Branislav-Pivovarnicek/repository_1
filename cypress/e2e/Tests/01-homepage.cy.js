@@ -12,4 +12,5 @@ describe('Home page tests',() =>{
         cy.get('body > div.modal-popup.cookie.cookie-0 > div > div > div.ftr > button.btn.btn-big.btn-inv.allow-necessary > span') .contains('Iba nutné') .should('be.visible') .click();
         cy.get('body > div.modal-popup.cookie.cookie-0 > div.modal-content.contentcont > a').click();
         cy.get('body > div.modal-popup') .should('not.exist');
+    })
 })
